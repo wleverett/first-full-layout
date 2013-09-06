@@ -1,0 +1,68 @@
+html {
+	background-color: black;
+}
+
+.topdiv {
+	height: 79px;
+}
+.imageheader {
+	float: left;
+	padding-right: 300px;
+	padding-left: 75px;
+	background-color: white;
+	width: 150px;
+	height: 79px;
+}
+
+nav {
+	float: right;
+	width: auto;
+	display: inline;
+	position: absolute;
+	background-color: white;
+	height: 79px;
+	color: black;
+	text-align: center;
+}
+
+ul {
+	text-align: center;
+}
+
+li {
+	display: inline;
+	float: left;
+	text-align: center;
+	padding: 12px 15px 0 15px;
+	font-family: Calibri
+}
+
+.ourwork {
+	color: white;
+	font-family: Calibri;
+	padding: 30px 0 0px 90px;
+}
+
+.content {
+	height: 600px;
+	width: 900px;
+	padding: 0 0 0 90px;
+}
+
+.six {
+	width: 250px;
+	float: left;
+	margin: 0 15px 0 0;
+	padding: 10px 0 0 0;
+}
+
+.captions {
+	background-color: white;
+	font-size: 12px;
+	float: left;
+	color: gray;
+	text-align: center;
+	width: 250px;
+	padding: 5px 0 5px 0;
+	font-family: Calibri;
+}
